@@ -1,0 +1,5 @@
+com\mycompany\chat\Server.class
+com\mycompany\chat\Client$ThreadLettura.class
+com\mycompany\chat\Client.class
+com\mycompany\chat\Client$ThreadInvio.class
+com\mycompany\chat\Server$MyThread.class
